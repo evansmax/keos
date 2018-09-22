@@ -1,0 +1,16 @@
+.
+|--boot
+|  `--boot.s
+|--kernel
+|  `--console.c
+|--include
+|  |--io.h
+|  |--console.h
+|  `--types.h
+|--init
+|  `--entry.c
+|--lib
+|--script
+|  `--kernel.ld
+|--floppy.img
+`--Makefile
